@@ -1,0 +1,81 @@
+.backcolor{
+    margin: 0%;
+    padding: 0%;
+    background-color: white; 
+    background-size:cover;
+    background-position:cover;
+   
+
+}
+h1{
+    text-align:center;
+    font-size: 25px ;
+
+}
+h2 {
+    text-align:center;
+    font-size: 20px ;
+
+}
+
+p{
+    text-align:center;
+    font-size: 20px ;
+    
+
+}
+.maintitle{
+
+    font-size: 20px ;
+    margin: 30px 0 0 0;
+    color: black;
+    text-align:center;
+    
+
+}
+
+.subt{
+
+    font-size: 10px ;
+    margin: 30px 0 0 0;
+    color: black;
+    text-align: center;
+}
+
+
+.menu {
+    box-sizing: border-box;
+    margin: 0;
+}
+.menu a {
+    background-color: rgb(227, 131, 150);
+    color:rgb(21, 21, 21);
+    text-decoration: none;
+    float: left;
+    width: 14%;
+    text-align: center;
+    font-family: bold;
+    padding: 10pt;
+    margin-left: 35px;
+}
+.menu a:hover {
+    background-color: rgb(193, 193, 168);
+    color: rgb(27, 26, 27);
+    text-decoration: none;
+}
+
+.imagen{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    flex-direction: row; 
+    justify-content: right; 
+    object-fit: contain;
+    margin-right: 25pt;
+    margin-bottom:30pt;
+    margin-left: 280pt;
+
+    
+}
